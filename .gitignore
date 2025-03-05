@@ -23,5 +23,8 @@ yarn-error.log
 /.vscode
 /.zed
 
+# better auth service
+/better-auth-service/node_modules
+
 # others
 .DS_Store
